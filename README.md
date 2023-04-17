@@ -2,7 +2,7 @@
 
 A reading journal for my progress in Code Fellows
 
-[My Portfolio](https://NephilimEyez.github.io/reading-notes/)
+[My Portfolio](https://github.com/NephilimEyez)
 
 ## 102 Intro to Software Developement
 

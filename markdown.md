@@ -1,6 +1,6 @@
 # Markdown
 
-Markdown is a lightwieght almost HTML like language with a lot of power behind it. Using just simple symbols on your keyboard to create everything from bold text to links, lists, and even picture implimentation. 
+Markdown is a lightwieght language with a lot of power behind it you can use to create some simple websites. Using just simple symbols on your keyboard to create everything from bold text to links, lists, and even picture implimentation. 
 
 ## Excellent Markdown Resources
 

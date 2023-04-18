@@ -2,6 +2,8 @@
 
 HTML stands for **HyperText Markup Language**
 
+It is the building blocks with which we build a site. The barebones information being shared to the user.
+
 ## The three main parts of HTML are:
 
 - \<opening-tag> content \</closing-tag>

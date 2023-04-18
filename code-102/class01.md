@@ -8,3 +8,5 @@ Growth mindset to me is remembering and reminding yourself that everything worth
 - If you are struggling ask for help
 - It's ok to walk away and come back with a fresh set of eyes
 - Remeber that if it's uncomfortable, you're learning
+
+[Return to Code 102 notes](README.md)

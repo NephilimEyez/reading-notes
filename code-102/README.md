@@ -6,7 +6,7 @@
 
 [Class 03 -](class03.md)
 
-[Class 04 -](class04.md)
+[Class 04 -HTML](class04.md)
 
 [Class 05 -](class05.md)
 

@@ -29,3 +29,5 @@
 [Class 14 -](class14.md)
 
 [Class 15 -](class15.md)
+
+[Return to journal](../README.md)

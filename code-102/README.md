@@ -10,7 +10,7 @@
 
 [Class 05 -](class05.md)
 
-[Class 06 -](class06.md)
+[Class 06 - Javascript](class06.md)
 
 [Class 07 -](class07.md)
 

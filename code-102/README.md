@@ -8,7 +8,7 @@
 
 [Class 04 - HTML](class04.md)
 
-[Class 05 -](class05.md)
+[Class 05 - CSS](class05.md)
 
 [Class 06 - Javascript](class06.md)
 

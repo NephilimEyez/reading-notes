@@ -4,7 +4,7 @@
 
 [Class 02 - Markdown](class02.md)
 
-[Class 03 -](class03.md)
+[Class 03 - Git](class03.md)
 
 [Class 04 - HTML](class04.md)
 

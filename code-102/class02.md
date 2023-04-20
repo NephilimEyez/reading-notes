@@ -1,22 +1,30 @@
-# Markdown
+# Software
 
-Markdown is a lightwieght language that essentially lets you do what a word editor like microsoft word can do.
+## Most Important Features
 
-Markdown is a simple to use utility that lets you add useful stylization to pages that use it. Making their navigation and viewing simpler and more pleasureable for the end user. 
+1. Code Completion
+2. Syntax Highlighting
+3. Variaty of Themes
+4. Large amount of extensions available
 
-For example, placing a simple pound sign creates a heading:
+## Useful commands
 
-\# Would make a level one heading as seen at the top of the page with the word Markdown, this is the largest heading, the more \# is used the smaller the heading using up to 6 \# in a row.
+- `pwd` - Print Working Directory
+- `ls` - LS Lists Files
+- `cd` - Change Directory
+- `mkdir` - Makes a folder inside your current folder
+- `touch` - Creates a file in your current directory
 
-A single \* will make text *Italicized* while two \** will make text **bold**.
+## Example
 
-You can create a normal looking web-page link using simply the \[Description here] and \(link here) symbols.
+`cd projects` - dives in to your folder entitled 'projects'
 
-You can also make an unordered list with the symbols \-, \*, and \+.
+`mkdir new-project` - creates a new folder in the current folder with the name 'new-project'
 
-## Excellent Markdown Resources
+`touch new-project/newfile.md` - creates a new empty markdown file in your **new-project** folder entitled 'newfile'
 
-- [https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
+`cd ..` - takes you one folder back out of the 'projects' folder
+
+`ls projects/new-project` - lists the files in the new projects folder, which should just be one file named `newfile.md`
 
 [Return to Code 102 notes](README.md)

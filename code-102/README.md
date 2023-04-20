@@ -1,8 +1,8 @@
 # 102 Intro to Software Developement
 
-[Class 01 - Growth Mindset](class01.md)
+[Class 01 - Growth Mindset & Markdown](class01.md)
 
-[Class 02 - Markdown](class02.md)
+[Class 02 - Software](class02.md)
 
 [Class 03 - Git](class03.md)
 

@@ -14,6 +14,6 @@
 
 [Class 07 - Javascript Functions](class07.md)
 
-[Class 08 -](class08.md)
+[Class 08 - Operators and Loops](class08.md)
 
 [Return to journal](../README.md)

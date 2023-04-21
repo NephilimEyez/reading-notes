@@ -10,10 +10,10 @@ You would use a loop for anything that may have conditions or needs to be checke
 
 ## For loop
 
-A for loop will execute till a predefined range is reached.
+A for-loop will execute until a specified condition evaluates to false.
 
 ## While Loop
 
-A while loop will run until it gets the input/result it is seeking.
+A while-loop will execute as long as a specified condition evaluates to true.
 
 [Return to Code 102 notes](README.md)

@@ -12,7 +12,7 @@
 
 [Class 06 - Javascript](class06.md)
 
-[Class 07 -](class07.md)
+[Class 07 - Javascript Functions](class07.md)
 
 [Class 08 -](class08.md)
 

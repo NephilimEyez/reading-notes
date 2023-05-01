@@ -2,7 +2,7 @@
 
 [Class 01 -](class01.md)
 
-[Class 02 -](class02.md)
+[Class 02 - Basics of HTML, CSS, and JS](class02.md)
 
 [Class 03 -](class03.md)
 

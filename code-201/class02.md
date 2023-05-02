@@ -57,7 +57,7 @@ List 4 types of JavaScript operators.
 
 - Assignment (`=`)
 
-- Does not equal (`!==`)
+- Not equal value or not equal type (`!==`)
 
 - Subtraction (`-`)
 

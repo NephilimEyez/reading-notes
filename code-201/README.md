@@ -4,7 +4,7 @@
 
 [Class 02 - Basics of HTML, CSS, and JS](class02.md)
 
-[Class 03 -](class03.md)
+[Class 03 - HTML Lists, Control Flow with JS, and the CSS Box Model](class03.md)
 
 [Class 04 -](class04.md)
 

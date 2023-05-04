@@ -8,7 +8,7 @@
 
 [Class 04 - HTML Links, JS Functions, and Intro to CSS Layout](class04.md)
 
-[Class 05 -](class05.md)
+[Class 05 - Images, Color, Text](class05.md)
 
 [Class 06 -](class06.md)
 

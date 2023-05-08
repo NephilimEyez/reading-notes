@@ -12,7 +12,7 @@
 
 [Class 06 -](class06.md)
 
-[Class 07 -](class07.md)
+[Class 07 - Object-Oriented Programming, HTML Tables](class07.md)
 
 [Class 08 -](class08.md)
 

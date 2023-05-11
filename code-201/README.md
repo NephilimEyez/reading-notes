@@ -16,7 +16,7 @@
 
 [Class 08 - CSS Layout](class08.md)
 
-[Class 09 -](class09.md)
+[Class 09 - Forms and JS Events](class09.md)
 
 [Class 10 -](class10.md)
 

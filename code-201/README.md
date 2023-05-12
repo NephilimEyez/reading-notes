@@ -18,7 +18,7 @@
 
 [Class 09 - Forms and JS Events](class09.md)
 
-[Class 10 -](class10.md)
+[Class 10 - Debugging](class10.md)
 
 [Class 11 -](class11.md)
 

@@ -20,7 +20,7 @@
 
 [Class 10 - Debugging](class10.md)
 
-[Class 11 -](class11.md)
+[Class 11 - Audio, Video, Images](class11.md)
 
 [Class 12 -](class12.md)
 

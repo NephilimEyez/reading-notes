@@ -22,7 +22,7 @@
 
 [Class 11 - Audio, Video, Images](class11.md)
 
-[Class 12 -](class12.md)
+[Class 12 - Chart.js, Canvas](class12.md)
 
 [Class 13 -](class13.md)
 

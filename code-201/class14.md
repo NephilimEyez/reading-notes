@@ -1,10 +1,10 @@
 # Psychological safety and CSS
 
-## Physchological Safety
+## Psychological Safety
 
 ### What are three key factors that contribute to psychologically safe teams?
 
-Empathy, openess, eaqual speaking
+Empathy, openness, equal speaking
 
 ### Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.
 

@@ -24,9 +24,9 @@
 
 [Class 12 - Chart.js, Canvas](class12.md)
 
-[Class 13 -](class13.md)
+[Class 13 - Local Storage](class13.md)
 
-[Class 14 -](class14.md)
+[Class 14 - Psychological Safety & CSS](class14.md)
 
 [Class 15 -](class15.md)
 

@@ -5,3 +5,5 @@
 [Class 02 - State and Props](class02.md)
 
 [Class 03 - Passing Functions as Props](class03.md)
+
+[Class 04 - React and Forms](class04.md)

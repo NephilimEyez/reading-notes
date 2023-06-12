@@ -7,3 +7,5 @@
 [Class 03 - Passing Functions as Props](class03.md)
 
 [Class 04 - React and Forms](class04.md)
+
+[Class 06 - REST](class06.md)

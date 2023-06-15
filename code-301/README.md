@@ -9,3 +9,5 @@
 [Class 04 - React and Forms](class04.md)
 
 [Class 06 - REST](class06.md)
+
+[Class 09 - Functional Programming](class09.md)

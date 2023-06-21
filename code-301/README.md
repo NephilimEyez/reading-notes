@@ -13,3 +13,5 @@
 [Class 09 - Functional Programming](class09.md)
 
 [Class 10 - In Memory Storage](class10.md)
+
+[Class 13 - More CRUD](class13.md)

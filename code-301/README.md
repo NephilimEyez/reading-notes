@@ -15,3 +15,5 @@
 [Class 10 - In Memory Storage](class10.md)
 
 [Class 13 - More CRUD](class13.md)
+
+[Class 14 - Diversity & Inclusion in the Tech Industry](class14.md)
